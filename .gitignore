@@ -1,0 +1,11 @@
+
+*.h5
+*.pth
+*.graph
+papers/*
+data/*
+*.zip
+*.gz
+*.csv
+*.txt
+*.tar
