@@ -1,5 +1,4 @@
 
-
 # Deep Learning code examples
 
 These are a series of scripts that implement deep learning models.
