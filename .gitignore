@@ -1,4 +1,6 @@
 
+videos/*
+*.mp4
 *.h5
 *.pth
 *.graph
