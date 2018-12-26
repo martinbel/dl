@@ -1,0 +1,26 @@
+<annotation>
+    <folder>voc_labels</folder>
+    <filename>15.jpg</filename>
+    <path>/mnt/yolo_retrain/images/guns/Guns-Dataset/voc_labels/15.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>345</width>
+        <height>146</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>pistol</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>123</xmin>
+            <ymin>81</ymin>
+            <xmax>165</xmax>
+            <ymax>105</ymax>
+        </bndbox>
+    </object>
+</annotation>

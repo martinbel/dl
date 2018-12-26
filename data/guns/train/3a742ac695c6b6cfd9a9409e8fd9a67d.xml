@@ -1,0 +1,38 @@
+<annotation>
+	<folder>gun pointing at another person _ Google Search</folder>
+	<filename>3a742ac695c6b6cfd9a9409e8fd9a67d.jpg</filename>
+	<path>C:\Users\Martin\Downloads\gun pointing at another person _ Google Search\3a742ac695c6b6cfd9a9409e8fd9a67d.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pistol</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>354</xmin>
+			<ymin>353</ymin>
+			<xmax>448</xmax>
+			<ymax>404</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>pistol</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>82</xmin>
+			<ymin>361</ymin>
+			<xmax>161</xmax>
+			<ymax>409</ymax>
+		</bndbox>
+	</object>
+</annotation>

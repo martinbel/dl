@@ -1,0 +1,26 @@
+<annotation>
+	<folder>gun pointing at another person _ Google Search</folder>
+	<filename>2HR_TLowReady.jpg</filename>
+	<path>C:\Users\Martin\Downloads\gun pointing at another person _ Google Search\2HR_TLowReady.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>840</width>
+		<height>440</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pistol</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>479</xmin>
+			<ymin>336</ymin>
+			<xmax>555</xmax>
+			<ymax>434</ymax>
+		</bndbox>
+	</object>
+</annotation>
